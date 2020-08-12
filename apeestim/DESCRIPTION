@@ -1,0 +1,16 @@
+Package: apeestim
+Title: Estimate effective reproduction number
+Version: 0.0.1
+Authors@R:
+      c(person(given = "Sangeeta",
+           family = "Bhatia",
+           role = c("aut", "cre"),
+           email = "s.bhatia@imperial.ac.uk"),
+      person(given = "Kris",
+           family = "Parag",
+           role = c("aut"),
+           email = "k.parag@imperial.ac.uk"))           
+Description: What the package does (one paragraph).
+License: CC0
+Encoding: UTF-8
+LazyData: true
